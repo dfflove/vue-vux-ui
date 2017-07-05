@@ -1,32 +1,21 @@
 <template>
     <div>
-        <swiper :list="banner_list" auto style="width:100%;margin:0 auto;" height="200px" dots-class="custom-bottom" dots-position="center"></swiper>
+        <Banner></Banner>
     </div>
 </template>
 <script>
-    import {
-        Swiper
-    } from 'vux'
+    import Banner from '../components/Banner'
     export default {
         components: {
-            Swiper
+            Banner
         },
         data() {
             return {
-                banner_list: []
+
             }
         },
         mounted() {
-            this.banner_list = [{
-                img: "/static/images/index/banner1.jpg",
-                url: 'http://www.baidu.com'
-            }, {
-                img: "/static/images/index/banner2.jpg",
-                url: 'http://www.sina.com'
-            }, {
-                img: "/static/images/index/banner3.jpg",
-                url: 'http://www.163.com'
-            }]
+
         }
     }
 </script>
