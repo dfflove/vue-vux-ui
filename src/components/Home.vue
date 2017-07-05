@@ -1,16 +1,16 @@
 <template>
     <div>
-        <Header></Header>
+        <Headers></Headers>
         <Banner></Banner>
     </div>
 </template>
 <script>
     import Banner from '../components/Banner'
-    import Header from '../components/Header'
+    import Headers from '../components/Header'
     export default {
         components: {
             Banner,
-            Header
+            Headers
         },
         data() {
             return {

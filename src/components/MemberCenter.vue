@@ -3,7 +3,7 @@
 </template>
 <script>
 </script>
-<style lang="less">
+<style lang="less" scoped>
     div {
         text-align: center;
     }
