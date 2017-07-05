@@ -1,14 +1,14 @@
 <template>
     <Tabbar>
-        <TabbarItem selected>
+        <TabbarItem link="/" selected>
              <i slot="icon" class="iconfont">&#xe600;</i>
              <span slot="label">首页</span>
         </TabbarItem>
-        <TabbarItem show-dot>
+        <TabbarItem link="/loanList" show-dot>
             <i slot="icon" class="iconfont">&#xe636;</i>
             <span slot="label">我要投资</span>
         </TabbarItem>
-        <TabbarItem badge="2">
+        <TabbarItem link="/memberCenter" badge="2">
             <i slot="icon" class="iconfont">&#xe603;</i>
             <span slot="label">个人中心</span>
         </TabbarItem>
