@@ -1,5 +1,5 @@
 <template>
-    <Tabbar>
+    <Tabbar class="tabbar">
         <TabbarItem link="/" selected>
              <i slot="icon" class="iconfont">&#xe600;</i>
              <span slot="label">首页</span>
@@ -33,5 +33,9 @@
 <style lang="less">
     .weui-tabbar__label {
         margin-top: 5px;
+    }
+    
+    .tabbar {
+        position: fixed!important;
     }
 </style>

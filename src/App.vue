@@ -21,4 +21,8 @@
     body {
         background-color: #fbf9fe;
     }
+    
+    #app {
+        padding-bottom: 80px;
+    }
 </style>
