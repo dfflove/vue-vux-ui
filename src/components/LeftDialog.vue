@@ -64,7 +64,7 @@
         vertical-align: top;
         background: url(/static/images/index/icon-settings.png) no-repeat;
         background-size: 100% auto;
-        margin: 3px 8px 0 0;
+        margin: 0.03rem 0.08rem 0 0;
     }
     
     .icon-vers {
@@ -81,6 +81,6 @@
     
     .button {
         width: 90%;
-        margin-top: 20px;
+        margin-top: 0.2rem;
     }
 </style>

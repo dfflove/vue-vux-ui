@@ -54,27 +54,27 @@
     }
     
     .card-demo-content01 {
-        padding: 10px 0;
+        padding: 0.1rem 0;
     }
     
     .card-padding {
-        padding: 15px;
+        padding: 0.15rem;
     }
     
     .card-demo-flex>div {
         flex: 1;
         text-align: center;
-        font-size: 12px;
+        font-size: 0.12rem;
         color: #999;
     }
     
     .card-demo-flex .text {
-        font-size: 16px;
+        font-size: 0.16rem;
         color: #333;
     }
     
     .newloan-box {
         display: block;
-        padding-top: 20px;
+        padding-top: 0.2rem;
     }
 </style>

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <swiper :list="banner_list" auto style="width:100%;margin:0 auto;" height="200px" dots-class="custom-bottom" dots-position="center"></swiper>
+        <swiper :list="banner_list" auto style="width:100%;margin:0 auto;" height="3rem" dots-class="custom-bottom" dots-position="center"></swiper>
     </div>
 </template>
 <script>

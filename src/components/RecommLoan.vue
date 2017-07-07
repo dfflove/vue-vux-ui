@@ -56,28 +56,28 @@
     }
     
     .card-demo-content01 {
-        padding: 10px 0;
+        padding: .1rem 0;
     }
     
     .card-padding {
-        padding: 15px;
+        padding: .15rem;
     }
     
     .card-demo-flex>div {
         flex: 1;
         text-align: center;
-        font-size: 12px;
+        font-size: .12rem;
         color: #999;
     }
     
     .card-demo-flex .text {
-        font-size: 16px;
+        font-size: .16rem;
         color: #333;
     }
     
     .newloan-box {
         display: block;
-        padding-top: 20px;
+        padding-top: .2rem;
     }
     
     .custom-primary-red {
@@ -93,11 +93,11 @@
     
     .red-tit {
         color: #fd6361;
-        font-size: 50px;
+        font-size: .5rem;
     }
     
     .loan-btn {
         width: 90%;
-        margin: 20px auto;
+        margin: 0.2rem auto;
     }
 </style>

@@ -39,19 +39,19 @@
 </script>
 <style lang="less" scoped>
     .iconfont {
-        font-size: 24px;
+        font-size: 0.4rem;
         color: #fff;
     }
     
     .vux-header {
         position: relative;
-        padding: 3px 0;
+        padding: 0.03rem 0;
         box-sizing: border-box;
         background-color: #008def;
     }
     
     .vux-popup-dialog {
         background: #fff;
-        padding-top: 20px;
+        padding-top: 0.2rem;
     }
 </style>

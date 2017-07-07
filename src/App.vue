@@ -6,6 +6,7 @@
 </template>
 
 <script>
+    import '../static/js/wap_auto.js';
     import TabBar from './components/TabBar'
     export default {
         components: {
@@ -17,12 +18,12 @@
 
 <style lang="less">
     @import '~vux/src/styles/reset.less';
-    @import './assets/fonts/iconfont.css';
+    @import '/static/css/iconfont.css';
     body {
         background-color: #fbf9fe;
     }
     
     #app {
-        padding-bottom: 80px;
+        padding-bottom: .8rem;
     }
 </style>

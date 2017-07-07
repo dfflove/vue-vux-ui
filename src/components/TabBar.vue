@@ -32,7 +32,7 @@
 
 <style lang="less">
     .weui-tabbar__label {
-        margin-top: 5px;
+        margin-top: .05rem;
     }
     
     .tabbar {
