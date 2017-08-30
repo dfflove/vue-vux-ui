@@ -18,13 +18,13 @@
         },
         mounted() {
             this.banner_list = [{
-                img: "/static/images/index/banner1.jpg",
+                img: "static/images/index/banner1.jpg",
                 url: 'http://www.baidu.com'
             }, {
-                img: "/static/images/index/banner2.jpg",
+                img: "static/images/index/banner2.jpg",
                 url: 'http://www.sina.com'
             }, {
-                img: "/static/images/index/banner3.jpg",
+                img: "static/images/index/banner3.jpg",
                 url: 'http://www.163.com'
             }]
         }

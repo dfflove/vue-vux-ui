@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## 部分截图
+
+<img src="https://raw.githubusercontent.com/hsl947/hsl947.github.io/master/screenShots/4.png" width="185" height="333"/><img src="https://raw.githubusercontent.com/hsl947/hsl947.github.io/master/screenShots/5.png" width="185" height="333"/><img src="https://raw.githubusercontent.com/hsl947/hsl947.github.io/master/screenShots/6.png" width="185" height="333"/>
+
 ## Build Setup
 
 ``` bash
